@@ -3,7 +3,7 @@ import json
 
 questions = []
 
-with open('study_guide_2_raw.txt', 'r') as f:
+with open('study_guide_3_raw.txt', 'r') as f:
   content = f.readlines()
 
 content = [x.strip() for x in content]
