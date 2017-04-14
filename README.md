@@ -16,3 +16,11 @@
   * SG1: 14 questions
   * SG2: 29 questions
   * SG3: 97 questions
+  
+### Script usage
+| short | long          | description                                    |
+|-------|---------------|------------------------------------------------|
+| -i    | --input-file  | specify which JSON file to load questions from |
+| -o    | --output-file | specify which output file to save progress     |
+| -l    | --load        | load and continue previously saved progress    |
+| -h    | --help        | give this help list                            |
